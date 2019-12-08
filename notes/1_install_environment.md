@@ -18,3 +18,6 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 #ref
 https://blog.csdn.net/chenxaioxue/article/details/81634536
+
+# 编程环境
+anaconda虚拟环境 + pycharm
